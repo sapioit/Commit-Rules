@@ -1,3 +1,10 @@
+## <a name="version-numbers"></a> Version Numbers
+To ensure consistency and remove ambiguity, the [Explicit Versioning](https://medium.com/p/92fc1f6bc73c)
+ guidlines will be used:
+
+> [**`Release.Breaking.Feature.Fix` or why the Semantic Versioning should be replaced with Explicit Versioning as soon as possible.**] (https://medium.com/p/92fc1f6bc73c)
+
+
 
 ## <a name="rules"></a> Coding Rules
 To ensure consistency throughout the source code, keep these rules in mind as you are working:
