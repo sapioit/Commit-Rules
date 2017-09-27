@@ -1,4 +1,4 @@
-## <a name="version-numbers"></a> Version Numbers
+## <a name="version-numbers"></a> Version Numbers [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 To ensure consistency and remove ambiguity, the [Explicit Versioning](https://medium.com/p/92fc1f6bc73c)
  guidlines will be used:
 
